@@ -1,2 +1,3 @@
 # hello-world
-Yet another repo.
+
+Hi! I make games that emulate stuff from my youth.
